@@ -1,6 +1,6 @@
 # proyecto final de visión artificial.
-# El proyecto hace uso de la las librerias de matpotlib y tensorflow
-# lo primero es importar las librerías como sigue
+-- El proyecto hace uso de la las librerias de matpotlib y tensorflow
+-- lo primero es importar las librerías como sigue
 # import matplotlib.pyplot as plt
 # import tensorflow as tf
 # import numpy as np
